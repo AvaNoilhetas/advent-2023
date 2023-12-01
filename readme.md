@@ -2,25 +2,25 @@
 
 First star with Javascript
 
-- [Day 1](./playground/day01/)
-<!-- - [Day 2](./playground/day02)
-- [Day 3](./playground/day03)
-- [Day 4](./playground/day04)
-- [Day 5](./playground/day05)
-- [Day 6](./playground/day06)
-- [Day 7](./playground/day07)
-- [Day 8](./playground/day08)
-- [Day 9](./playground/day09)
-- [Day 10](./playground/day10)
-- [Day 12](./playground/day12)
-- [Day 13](./playground/day13)
-- [Day 14](./playground/day14)
-- [Day 15](./playground/day15)
-- [Day 16](./playground/day16)
-- [Day 17](./playground/day17)
-- [Day 18](./playground/day18)
-- [Day 19](./playground/day19)
-  [Day 20](./playground/day20)
-- [Day 22](./playground/day22)
-- [Day 23](./playground/day23)
-- [Day 24](./playground/day24) -->
+- [Day 1](./day01) ⭐️
+<!-- - [Day 2](./day02) ⭐️
+- [Day 3](./day03) ⭐️
+- [Day 4](./day04) ⭐️
+- [Day 5](./day05) ⭐️
+- [Day 6](./day06) ⭐️
+- [Day 7](./day07) ⭐️
+- [Day 8](./day08) ⭐️
+- [Day 9](./day09) ⭐️
+- [Day 10](./day10) ⭐️
+- [Day 12](./day12) ⭐️
+- [Day 13](./day13) ⭐️
+- [Day 14](./day14) ⭐️
+- [Day 15](./day15) ⭐️
+- [Day 16](./day16) ⭐️
+- [Day 17](./day17) ⭐️
+- [Day 18](./day18) ⭐️
+- [Day 19](./day19) ⭐️
+  [Day 20](./day20) ⭐️
+- [Day 22](./day22) ⭐️
+- [Day 23](./day23) ⭐️
+- [Day 24](./day24) ⭐️ -->
