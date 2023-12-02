@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "node-fs": "^0.1.7",
     "nodemon": "^3.0.1"
   }
 }

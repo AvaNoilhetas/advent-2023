@@ -19,7 +19,7 @@ lines.forEach((element, index) => {
   });
 });
 
-arr.foreach((element) => {
+arr.map((element) => {
   const number = `${element[0]}${element[element.length - 1]}`;
   result += parseInt(number);
 });
