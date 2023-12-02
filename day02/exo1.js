@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const data = fs.readFileSync("./day02/input.txt", {
+const data = fs.readFileSync("./day02/input1.txt", {
   encoding: "utf8",
   flag: "r",
 });
@@ -37,3 +37,8 @@ const result = games.reduce((a, c) => {
 });
 
 console.log(result);
+
+// Tableau green blue red
+// if value sup data in array => change else no
+// Get value and * them
+// Push them in result array
